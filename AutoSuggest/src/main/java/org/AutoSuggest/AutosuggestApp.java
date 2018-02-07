@@ -5,7 +5,10 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Hello world!
+ * AutoSuggest APP
+ * Given a search Text it outputs all the words starting 
+ * with the given search text
+ * @author hemant kumar
  *
  */
 public class AutosuggestApp 

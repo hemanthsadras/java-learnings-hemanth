@@ -8,7 +8,8 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
 
 /**
- * Hello world!
+ * App which traverses the given file and generates multile files with fixed amount of lines
+ * @author hemant kumar
  *
  */
 public class App 

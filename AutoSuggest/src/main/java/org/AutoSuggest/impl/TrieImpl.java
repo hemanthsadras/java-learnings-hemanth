@@ -6,6 +6,11 @@ import java.util.Map.Entry;
 
 import org.AutoSuggest.Trie;
 
+/**
+ * Implementation of Trie Data structure
+ * @author hemant kumar
+ *
+ */
 public class TrieImpl implements Trie {
 	
 	private TrieNode root;
