@@ -28,5 +28,6 @@
     <module>AutoSuggest</module>
     <module>WikiWords</module>
     <module>CountWordsTask</module>
+    <module>AnnotationTask</module>
   </modules>
 </project>
