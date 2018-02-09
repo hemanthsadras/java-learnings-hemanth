@@ -16,3 +16,7 @@
      Run the com.annotationtasks.App to execute the program
      Run the org.annotationtasks.DocumentValidationTestSuite for executing multiple Junit Tests.
      
+## 6. Least Recently Used - LRU implementation for Page Replacement Algorithm
+     Run the com.lrutask.App to execute the program
+     Give the neccessary inputs to interact with the console app designed to showcase LRU
+     
