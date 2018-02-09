@@ -1,0 +1,11 @@
+com/coderefactoring/ChildBookPriceCalculator.class
+com/coderefactoring/App.class
+com/coderefactoring/FictionBookPriceCalculator.class
+com/coderefactoring/PriceCalculatorFactory.class
+com/coderefactoring/BookType.class
+com/coderefactoring/NonFictionBookPriceCalculator.class
+com/coderefactoring/Book.class
+com/coderefactoring/BookRentalPriceCalculator.class
+com/coderefactoring/Customer.class
+com/coderefactoring/Rental.class
+com/coderefactoring/RentalService.class

@@ -1,0 +1,8 @@
+com/lrutask/App.class
+com/lrutask/doublelinkedlist/LeastRecentlyUsed.class
+com/lrutask/doublelinkedlist/PageReplacementAlgorithms.class
+com/lrutask/Page.class
+com/lrutask/doublelinkedlist/Node.class
+com/lrutask/os/PageRepository.class
+com/lrutask/doublelinkedlist/PageReplacementStrategy.class
+com/lrutask/doublelinkedlist/PageReplacement.class

@@ -7,11 +7,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>com.hemanthworks.javalearnings</name>
+  <name>java-learning-hemanth</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
   </properties>
 
   <dependencies>
@@ -29,5 +31,7 @@
     <module>WikiWords</module>
     <module>CountWordsTask</module>
     <module>AnnotationTask</module>
+    <module>GenericEnumsTask</module>
+    <module>LeastRecentlyUsedTask</module>
   </modules>
 </project>

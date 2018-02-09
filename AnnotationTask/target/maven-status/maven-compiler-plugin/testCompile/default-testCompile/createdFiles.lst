@@ -1,0 +1,4 @@
+org/annotationtasks/PanCardValidationTest.class
+org/annotationtasks/DocumentValidationTestSuite.class
+org/annotationtasks/DocumentConsistencyTest.class
+org/annotationtasks/AadharCardValidationTest.class

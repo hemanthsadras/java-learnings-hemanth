@@ -1,0 +1,11 @@
+org/WikiWords/Writer.class
+org/WikiWords/FileParser.class
+org/WikiWords/CSVFileParser.class
+org/WikiWords/TextFileParser.class
+org/WikiWords/WikiManager.class
+org/WikiWords/FileWriter.class
+org/WikiWords/WikiDescriptionCreator.class
+org/WikiWords/util/Util.class
+org/WikiWords/restclient/RestClient.class
+org/WikiWords/WikiWordsApp.class
+org/WikiWords/FileParserFactory.class
