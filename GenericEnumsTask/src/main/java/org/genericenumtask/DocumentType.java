@@ -1,13 +1,14 @@
 package org.genericenumtask;
 
-public enum Level implements ApplicationEnum<String>{
-	HIGH("High"),
-	LOW("Low"),
-	Medium("Medium");
+public enum DocumentType  implements ApplicationEnum<String>{
+
+	TEXT("text"),
+	CSV("csv"),
+	JSON("json");
 	
 	private String value;
 	
-	Level(String value) {
+	DocumentType(String value) {
 		this.value = value;
 	}
 
